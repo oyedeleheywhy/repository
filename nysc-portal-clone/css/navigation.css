@@ -1,0 +1,29 @@
+.nav{
+    font-weight: bold; width: 250px; margin-top: 30px;
+    margin-left: 25px; font-size: 18px; font-family: Arial, Helvetica, sans-serif;
+    color: rgb(112, 112, 117); display: inline-block;
+    
+}
+.nav-lists{
+    display: flex;align-items: center;
+    font-size: 14px; margin-bottom: 12px;
+    border-bottom: 1px solid rgb(207, 204, 204);
+}
+.nav-elements{
+    font-size: 30px; vertical-align: top; color: rgb(89, 89, 89);
+    font-weight: 100; width: 38px; padding-bottom: 5px;margin-right: 0;
+}
+.list-details{
+   flex: 1; margin-left: 0;
+}
+.nav-header{
+    margin-bottom: 30px;
+}
+.anchor-element{
+   text-decoration: none;
+    color:rgb(113, 111, 111) ;
+    cursor: pointer;
+}
+.anchor-element:hover{
+    color: red;
+}

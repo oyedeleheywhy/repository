@@ -1,0 +1,83 @@
+.main{ flex: 1; margin-top: 40px; margin-left: 10px;
+}
+.main-1{
+    display: flex; justify-content: space-between; ;
+}
+.e-mail{
+    background-color: rgb(50, 156, 66); padding-top: 4px;
+    padding-left: 8px; padding-right: 8px; padding-bottom: 4px;
+    border: 0; color: white; border-radius: 4px; width: 300px;
+}
+.fieldset{
+    margin-right: 33px; margin-top: 20px; margin-left: 20px;
+    border: 1px solid rgb(185, 182, 182);
+}
+.legend{
+    border: 1px solid gray; padding-right: 930px; font-weight: bold;
+    padding-top: 5px; padding-bottom: 5px; color: rgb(98, 94, 94);
+    background-color: rgb(252, 250, 250);
+}
+.main-2-div{
+    color: rgb(54, 117, 54); display: flex;
+    margin-left: 50px;
+}
+.main-2-span{
+    font-weight: bold; display: flex; margin-right: 30px;
+     line-height: 20px; text-align: right; font-size: 12px;
+     margin-top: 20px;
+
+}
+.main-2-details{
+    line-height: 20px; font-size: 12px; margin-top: 20px;
+}
+.profilepic{
+     width: 120px; height: 120px; border-radius: 60px;
+     margin-left: 580px; margin-top: 20px;
+
+}
+.main-2-link{
+    text-decoration: none; margin-left: 20px;
+    color:rgb(59, 79, 94); font-size: 13px;
+}
+.main-2-link:hover{
+    text-decoration: underline; color: rgb(13, 35, 91);
+}
+.main-p{
+    font-weight: bold; color: rgb(54, 117, 54); 
+    margin-left: 12px; font-size: 13px; font-style: italic;
+    line-height: 25px;
+}
+.p-2{
+    font-size: 13px; margin-left: 12px; font-weight: 200px;
+    color: rgb(226, 102, 102);
+}
+.button-1{
+    background-color: rgb(43, 148, 58); width: 150px;
+     border: 0; margin-left: 20px; height: 30px;
+    color: white; border-radius: 3px; margin-bottom: 20px;
+}
+.p-2-span{
+    background-color:  rgb(68, 165, 83);
+    cursor: pointer; color: white; border: 0;
+    padding: 6px 8px 6px 8px; border-radius: 3px;
+    font-size: 12px; width: 300px;
+}
+.p-2-span:hover{
+    text-decoration: underline; color: rgb(57, 57, 211);
+}
+.main-div-2{
+    background-color:  rgb(223, 240, 216);
+    padding: 15px; border-radius: 4px; color: rgb(94, 157, 179);
+    font-size: 14px; font-weight: bold; padding-top:10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+.footer{
+    margin-left: 10px; font-weight: bold; 
+    font-size: 28px; color: rgb(98, 94, 94);
+    margin-top: 60px;width: 1200px;
+}
+.contact-us{
+    float: right; 
+    margin-top: 15px; margin-right: 10px;
+}
